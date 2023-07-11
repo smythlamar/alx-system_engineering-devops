@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n10 /tmp/passwd
+heads -n 10 /tmp/passwd
